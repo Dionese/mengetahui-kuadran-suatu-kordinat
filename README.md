@@ -1,0 +1,1 @@
+# mengetahui-kuadran-suatu-kordinat
